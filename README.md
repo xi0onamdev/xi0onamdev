@@ -52,8 +52,10 @@ I am **xi0onamdev**, a passionate **Freelance Developer** specializing in buildi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xi0onamdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi0onamdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xi0onamdev&theme=tokyonight" alt="profile details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xi0onamdev&theme=tokyonight" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xi0onamdev&theme=tokyonight" alt="productive time" />
 </div>
 
 <div align="center">
@@ -68,7 +70,7 @@ I am **xi0onamdev**, a passionate **Freelance Developer** specializing in buildi
   <a href="https://t.me/xi0onamdev">
     <img src="https://img.shields.io/badge/Telegram-xi0onamdev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="lohoainam37@gmail.com">
+  <a href="mailto:contact@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
