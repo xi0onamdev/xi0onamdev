@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=xi0onamdev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Freelance%20Developer%20%26%20Tool%20Creator&descAlignY=51&descAlign=62" width="100%" alt="header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=900&size=80&pause=1000&color=33FF00&center=true&vCenter=true&width=800&height=150&lines=xi0onamdev" alt="xi0onamdev" />
 </div>
 
 <div align="center">
